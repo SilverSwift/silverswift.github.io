@@ -20,8 +20,10 @@
 
 title: YOPT
 email: tver.56s@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-DCS countermesures editor reference guide. 
+description: > 
+  DCS YOPT reference guide.
+  Your own presets tweaker was created to make presets management easy. 
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
