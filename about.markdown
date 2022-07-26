@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is an open-source and free software. 
+If you need documentation you may look trough the [Guide]({% link guide.markdown %}) 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If you faced an issue feel free to report it on a github: [here](https://github.com/SilverSwift/DCS_CMS_Editor/issues/new)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+If you would like to contribute a project, request a feature, propose an idea or help with localization, contact via github or e-mail: [tver.56s@gmail.com](mailto:tver.56s@gmail.com)
 
-
-[jekyll-organization]: https://github.com/jekyll

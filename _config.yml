@@ -18,16 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: YOPT
+title: Your Own Presets Tweaker for DCS
 email: tver.56s@gmail.com
 description: > 
   DCS YOPT reference guide.
   Your own presets tweaker was created to make presets management easy. 
+  
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+#twitter_username: ""
 github_username:  silverswift
+
+header_pages:
+  - guide.markdown
+  - about.markdown  
 
 # Build settings
 theme: minima
