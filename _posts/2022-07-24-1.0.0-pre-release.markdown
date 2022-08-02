@@ -7,4 +7,4 @@ date:   2022-07-24 07:17:57 +0000
 Hey there!
 I'm happy to introduce fully functional pre-release version 1.0 of "Your Own presets Tweaker" for DCS.
 
-It can be downloaded from the github:  https://github.com/SilverSwift/DCS_CMS_Editor/releases/tag/1.0.0-pre-release
+It can be downloaded from the github:  [1.0.0-pre-release](https://github.com/SilverSwift/DCS_CMS_Editor/releases/tag/1.0.0-pre-release)
