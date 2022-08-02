@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "1.0.0 release is live!"
+date:   2022-08-02 07:00:00 +0000
+
+---
+Hey there!
+I'm happy to introduce fully functional release version 1.0 of "Your Own presets Tweaker" for DCS.
+
+It can be downloaded from the github:  https://github.com/SilverSwift/DCS_CMS_Editor/releases/tag/1.0.0-release
+
+Now it is planned to polish UI and add some more useful features... watch for updates.
+
+![yopt main window](/img/main1_0.png)
