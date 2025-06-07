@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "1.0.1 patch released!"
+date:   2025-06-07 19:00:00 +0200
+
+---
+Hey there!
+
+It looks like patch [2.9.16.10523](https://www.digitalcombatsimulator.com/en/news/changelog/release/2.9.16.10523/) messed CMS programms for F/A-18C.
+
+By default, MAN 2 is used on CMS AFT after the ALE-47 is initially switched from STBY to MAN 1.
+After manually selecting a CMS program using the STEP button, the displayed program is used.
+For CMS FWD, MAN 6 is used instead of MAN 5.
+Additionally, the Panic program (sidewall button) has been moved to AUTO 1.
+
+A workaround for the F/A-18C is in a patch 1.0.1. 
+
+Those considerations are also helpfull to understand how to use DTC in missions.
+
+It can be downloaded from the github: [v1.0.1](https://github.com/SilverSwift/DCS_CMS_Editor/releases/tag/v1.0.1)
+
