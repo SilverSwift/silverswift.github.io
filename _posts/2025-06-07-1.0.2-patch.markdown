@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "1.0.2 patch released!"
+date:   2025-06-09 14:10:00 +0200
+
+---
+Hey there!
+
+After test of a patch [1.0.1](https://silverswift.github.io/2025/06/07/1.0.1-patch.html) improvements were made to workaround.
+
+Now the logic is following:
+
+Programs MAN1 - MAN5 are working as before, after manually selected with STEP OSB.
+By default after a hot start MAN2 is selected, despite the MAN1 is displayed.
+Panic/wall button and CMS FWD swithces are programmed correctly from the app now.
+Despite it is possible to select MAN 6 on MFD the MAN 5 will be used for CMS AFT instead.
+
+It can be downloaded from the github: [v1.0.2](https://github.com/SilverSwift/DCS_CMS_Editor/releases/tag/1.0.2)
+
+Please remove last version of the app using uninstaller in the app's directory before installing newer version.
